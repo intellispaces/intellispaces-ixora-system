@@ -1,7 +1,7 @@
 package intellispaces.ixora.system;
 
-import intellispaces.framework.core.annotation.Channel;
-import intellispaces.framework.core.annotation.Domain;
+import intellispaces.jaquarius.annotation.Channel;
+import intellispaces.jaquarius.annotation.Domain;
 
 /**
  * Inbound module port.
